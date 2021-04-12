@@ -21,6 +21,10 @@
 3. 운전자에게 보행자가 건너고 있음을 인지하게 해 줌 (시각적인 표현)
 4. 교차로에서 우회전 시 운전자에게 보행자 신호인지, 보행자가 있는지 알려줄 시스템 
 
+![image](https://user-images.githubusercontent.com/80503073/114394389-1b676680-9bd6-11eb-9310-692ca323a3e9.png)
+![image](https://user-images.githubusercontent.com/80503073/114394404-1dc9c080-9bd6-11eb-8550-d44ae05c0179.png)
+
+
 #### 설계 내용 
 
 1. 횡단보도에서의 안전
