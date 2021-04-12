@@ -45,6 +45,8 @@
 ### Development Environment
 
 ##### 1. Git & Git Hub
+다수의 팀원 간 협업이 필요한 프로젝트 이므로, 분산버전관리시스템(DVCS)인 Git과 웹 호스팅서비스인 Git Hub를 이용해 프로젝트의 분업과 수정을 용이하게 하고, 진행상황을 공유한다.
+
 ##### 2. Open CV
 ##### 3. Deep Learning
 ##### 4. Python
