@@ -65,12 +65,28 @@ Open CV만으로 추출되지 않는 형태의 보행자는 Deep Learning을 통
 ### Manual
 
 실행 후 사용 방법에 대한 내용
-
+# manual
+## Process
+보행자 진입 시도 시
+1. 보행자 진입
+2. 운전자 신호등에 보행자 신호 켜짐
+3. 객체에 따른 보행자 진입 시간 조절
+4. 보행자 신호등에 추가된 시간 알림
+보행자 진입 X
+1. 보행자 없는것을 인식
+2. 보행자 신호 시간을 최적 시간으로 줄여 차량의 지연 시간 줄임
 ---------------------------------------------------------------------------
 
 ### License
 
 라이선스 조항은 어떻게 되는지
+Copyright <2021> <COPYRIGHT HOLDER>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---------------------------------------------------------------------------
 
