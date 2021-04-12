@@ -74,5 +74,6 @@
 ![image](https://user-images.githubusercontent.com/68588772/114360011-86ea0d80-9baf-11eb-8548-9e852578411f.png)
 1. 고령자, 휠체어를 이용하는 장애인들의 평균 보행속도는 일반 성인의 보행속도보다 느리기 때문에 일반 성인의 보행속도를 기준으로 만들어진 횡단 신호의 시간이 부족할 경우가 많다.
 
-![image](https://user-images.githubusercontent.com/68588772/114361839-9b2f0a00-9bb1-11eb-835c-3b240559c82d.png)
+![image](https://user-images.githubusercontent.com/68588772/114361995-cc0f3f00-9bb1-11eb-8760-668373ebfc78.png)
+
 2. 신호 교차로 사고 10건 중 2건은 우회전 상황에서 발생하고 있다. 현재, 차량 운전자의 시야에서는 보행자 신호가 보이지 않고 있기 때문에 사고가 발생한다. 지난달에도 화물차와 래미콘이 우회전을 하던 중에 아이를 발견하지 못해서 사고가 발생하였다.
