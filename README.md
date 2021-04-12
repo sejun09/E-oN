@@ -71,5 +71,6 @@
 ---------------------------------------------------------------------------
 
 ### Known issues
+![image](https://user-images.githubusercontent.com/68588772/114359047-8d2bba00-9bae-11eb-9685-a5afe38fd5ee.png)
 
 이미 알려진 문제점이나 주의사항 등
